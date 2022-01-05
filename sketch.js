@@ -24,10 +24,6 @@ function setup() {
   
 
   //Crear opciones del motor físico para la fruta 
-  var fruit_options = {
-    density:0.001
-  };
-  //Creamos cuerpo circular para la fruta 
   
   rectMode(CENTER);
   ellipseMode(RADIUS);
